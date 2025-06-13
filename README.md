@@ -1,2 +1,9 @@
 # acis-car-insurance-analytics
-Dive into real insurance data to uncover low-risk segments and build smart models that optimize premiums.
+## 🚀 Getting Started
+
+### Clone and Install
+
+```bash
+git clone https://github.com/your-username/acis-car-insurance-analytics.git
+cd acis-car-insurance-analytics
+pip install -r requirements.txt
